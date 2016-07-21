@@ -41,7 +41,7 @@
         android:src="@drawable/left"
         android:layout_alignParentLeft="true"
         android:layout_marginLeft="70dp"
-        android:layout_marginTop="420dp"/>
+        android:layout_marginTop="500dp"/>
 
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/fab2"
@@ -49,7 +49,7 @@
         android:layout_height="wrap_content"
         android:onClick="ActionLeft"
         android:src="@drawable/right"
-        android:layout_marginTop="420dp"
+        android:layout_marginTop="500dp"
         android:layout_alignParentRight="true"
         android:layout_marginRight="70dp"/>
 
